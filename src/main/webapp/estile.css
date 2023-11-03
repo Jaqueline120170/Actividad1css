@@ -10,14 +10,14 @@ body{
     font-family:verdana;
     font-size:20px;
     color: red;
-.blue-text {
+   
+}
+.blue-text{
 	text-align: center;
     margin: 0.75rem;
     font-family:verdana;
     font-size:20px;
-     color: blue; 
-		 }
-    
+    color: blue;
 }
 
 
