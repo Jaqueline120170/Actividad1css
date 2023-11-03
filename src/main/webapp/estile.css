@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*menu inicial*/
+body{
+	background: aqua;
+}
+	 
+.red-text{
+	text-align: center;
+    margin: 0.75rem;
+    font-family:verdana;
+    font-size:20px;
+    color: red;
+.blue-text {
+	text-align: center;
+    margin: 0.75rem;
+    font-family:verdana;
+    font-size:20px;
+     color: blue; 
+		 }
+    
+}
+
+
+.texto2{
+	text-align: center;
+	color:blue;
+	 background: silver;
+	  margin: 0.75rem;
+	 font-family:verdana;
+    font-size:20px;
+}
+.texto3{
+	text-align:right;
+	color:blue;
+	font-family:verdana;
+    font-size:20px;
+	
+}
+.texto4{
+	text-align:center;
+	color:blue;
+	background:silver;
+	margin: 0.75rem;
+	font-family:verdana;
+    font-size:20px;
+}
+	
