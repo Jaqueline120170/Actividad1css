@@ -5,15 +5,17 @@ body{
 }
 	 
 .red-text{
-	text-align: center;
+	display: inline;
+	text-align:center;
     margin: 0.75rem;
     font-family:verdana;
     font-size:20px;
     color: red;
-   
+ 
 }
 .blue-text{
-	text-align: center;
+	display: inline;
+	text-align:center;
     margin: 0.75rem;
     font-family:verdana;
     font-size:20px;
@@ -22,7 +24,7 @@ body{
 
 
 .texto2{
-	text-align: center;
+	text-align:center;
 	color:blue;
 	 background: silver;
 	  margin: 0.75rem;
